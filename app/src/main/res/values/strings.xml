@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCalculate</string>
+    <string-array name="operation_options">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
